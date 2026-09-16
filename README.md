@@ -9,7 +9,7 @@ A small collection of mods for [Boxel 3D](https://www.dopplercreative.com/games/
 3. Paste in the [Boxel 3D Modding API](https://github.com/Charlieee1/Boxel-3d-Mods/blob/main/Boxel%203d%20Modding%20API.user.js) code **FIRST** and press Enter. This only needs to be done once per page load, and must be done **BEFORE** any mod below.
 4. Paste in the code for whichever mod(s) you want to use and press Enter!
 
-*NOTE: Since this all runs in the console, you'll need to redo steps 3–4 every time you reload the page.*
+*NOTE: Since this all runs in the console, you'll need to redo steps 3 to 4 every time you reload the page.*
 
 ## Mods
 

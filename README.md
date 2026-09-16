@@ -1,6 +1,6 @@
 # Boxel Mods!
 
-A small collection of mods for [Boxel 3D](https://www.dopplercreative.com/games/boxel-3d/play/), built on top of [@Charlieee1's Boxel 3D Modding API](https://github.com/Charlieee1/Boxel-3d-Mods/blob/main/Boxel%203d%20Modding%20API.user.js). More mods coming soon!
+A small collection of mods for [Boxel 3D](https://www.dopplercreative.com/games/boxel-3d/play/), built on top of [Charlieee1's Boxel 3D Modding API](https://github.com/Charlieee1/Boxel-3d-Mods/blob/main/Boxel%203d%20Modding%20API.user.js). More mods coming soon!
 
 ## Requirements
 

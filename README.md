@@ -13,22 +13,25 @@ A small collection of mods for [Boxel 3D](https://www.dopplercreative.com/games/
 
 ## Mods
 
-### [30 Second Mod](30SecMod.js)
+### [30 Second Timer!](30SecMod.js)
 Adds a 30-second countdown timer to the screen! If you haven't finished the level by the time it hits zero, you're killed and sent back to the begening of the level...
 
-### [Checkpoint Mod](CheckpointMod.js)
+### [Checkpoints!](CheckpointMod.js)
 Adds a manual checkpoint system on top of the game's built-in one:
 - **Z:** save a checkpoint at your current position (mode and jump mode are saved too, so you come back exactly as you left, apart from your momentum/rotation).
 - **X:** clear your checkpoint.
 - A green octahedron spawns at your checkpoint so you can see where you'll respawn!
 
-### [Gravity Roller](GravityRoller.js)
+### [Gravity Roller!](GravityRoller.js)
 Rolls a random gravity multiplier (between 0.1x and 2x) every time you attempt a level! It could be lightwork or be hellish to finish, it's up to RNG...
 
-### [Jump Charge](JumpCharge.js)
+### [Jump Charge!](JumpCharge.js)
 Replaces the normal instant jump with a hold-to-charge system:
 - Tap for a small jump, hold up to **2 seconds** for a much bigger one.
 - Works with keyboard (Space / W / Arrow Up), mouse click, and on-screen touch controls (omg mobile support ikr).
 - A charge meter appears above your screen while holding, showing how close you are to max height.
+
+### [Ground Pound!](GroundPound.js)
+Lets you groundpound very quickly into the ground, having after-images and some subtle sfx, and even a little bounce at the end!
 
 # Enjoy your time with these mods!!!
